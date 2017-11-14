@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+<string name="app_name">ExpenseRegister</string>
+<string name="country_prompt">Choose a country</string>
+
+<string-array name="payment_type">
+    <item>Cash</item>
+    <item>Credit card</item>
+</string-array>
+
+</resources>
